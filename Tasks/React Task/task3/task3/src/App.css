@@ -1,0 +1,15 @@
+.App{
+  height:100vh;
+  background: lightblue;
+  padding-top:200px;
+}
+.main{
+ display: grid;
+ place-items: center;
+}
+input{
+  padding-left:5px;
+}
+li{
+  font-weight: bold;
+}
